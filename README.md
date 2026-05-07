@@ -24,14 +24,14 @@ A console-based banking system built using C programming language with file hand
 ### 🧑‍💼 Admin Dashboard
 ![Admin](screenshots/admin_menu.png)
 ![Admin](screenshots/client_resistration.png)
-![Admin](screenshots/Client_list.png)
+![Admin](screenshots/client_list.png)
 
 ### 👨 Client Dashboard
-![Client](screenshots/Client_login.png)
-![Client](screenshots/Client_panel.png)
+![Client](screenshots/client_login.png)
+![Client](screenshots/client_panel.png)
 
 ### 💸 Money Transfer
-![Transfer](screenshots/Client_transfer_money.png)
+![Transfer](screenshots/client_transfer_money.png)
 
 
 ---
