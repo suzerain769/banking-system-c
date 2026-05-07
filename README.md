@@ -18,17 +18,21 @@ A console-based banking system built using C programming language with file hand
 
 ## 🖼️ Screenshots
 
-### 🔐 Login System
-![Login](Screenshots/login.png)
+### 🏠 Home
+![Home](Screenshots/Home.png)
 
 ### 🧑‍💼 Admin Dashboard
-![Admin](Screenshots/admin.png)
+![Admin](Screenshots/admin_menu.png)
+![Admin](Screenshots/client_resistration.png)
+![Admin](Screenshots/Client_list.png)
+
+### 👨 Client Dashboard
+![Client](Screenshots/Client_login.png)
+![Client](Screenshots/Client_panel.png)
 
 ### 💸 Money Transfer
-![Transfer](Screenshots/transfer.png)
+![Transfer](Screenshots/Client_transfer_money.png)
 
-### 💰 Deposit System
-![Deposit](Screenshots/deposit.png)
 
 ---
 
